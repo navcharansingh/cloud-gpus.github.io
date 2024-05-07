@@ -616,7 +616,7 @@
         },
         {
             "name": "ACE Cloud",
-            "url": "https://www.acecloudhosting.com/public-cloud/gpu/?ref=cloud_gpus",
+            "url": "https://acecloud.ai/public-cloud/gpu/?ref=cloud_gpus",
             "cost1080": "-",
             "costv100": "-",
             "costp100": "-",
